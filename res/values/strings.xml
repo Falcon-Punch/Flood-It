@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flood-It!</string>
+    <string-array name="sLevelsArr">
+        <item>Select Level</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="sSettings">Game Settings</string>
+    <string name="sDifficulty">Difficulty Adjustment:</string>
+    <string name="sMoves">Moves Left: %1$d/%2$d</string>
+    <string name="sQuit">Quit</string>
+    <string name="sYouLose">Sorry you lost</string>
+    <string name="sYouWon">You won using %s moves!</string>
+    <string name="sRetry">Try Again</string>
+    <string name="sMainMenu">Main Menu</string>
+
+</resources>
